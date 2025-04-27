@@ -5,7 +5,7 @@ First code first
 
 - 👀 I’m interested in Python, Visual Basic, VSCode, Kubernetes, JSON, Microservices
 
-- 🌱 I’m currently learning Azure, then I pretend to step up my knowledge on SOA
+- 🌱 I’m currently learning Azure, then I intend to step up my knowledge on SOA
 
 - 💞️ I’m looking to collaborate on code reviews and also best practices 
 
