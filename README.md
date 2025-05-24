@@ -3,7 +3,7 @@ First code first
 
 👋 Hi, I’m @Diegoul
 
-- 👀 I’m interested in Python, Visual Basic, VSCode, Kubernetes, JSON, Microservices
+- 👀 I’m interested in Python, Visual Basic, VSCode, Kubernetes, JSON, Microservices and Java
 
 - 🌱 I’m currently learning Azure, then I intend to step up my knowledge on SOA
 
